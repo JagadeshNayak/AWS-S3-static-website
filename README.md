@@ -49,6 +49,22 @@ Optionally, set a custom error document like error.html.
 
 ![Screenshot 2025-03-03 170104](https://github.com/user-attachments/assets/196fd832-287a-47dd-b1da-f809ead07229)
 
+**Step 5" Make public  ACL**
+
+After uploading your files and folders, navigate to the **Objects** section, select all files, and go to the **Actions** menu. Enable **Make Public using ACL** to grant public access. Then, copy the website URL from the **Static Website Hosting** section and open it in any browser to access your site.
+
+![Screenshot 2025-03-03 165824](https://github.com/user-attachments/assets/92bbee8c-b836-4a16-a9de-c3ee2c7750fc)
+
+**Step 6: Access the website**
+
+Use the bucket's public URL to access the website. It typically looks like:
+
+http://jagadeshnayak.s3-website-us-west-1.amazonaws.com
+
+<img width="947" alt="image" src="https://github.com/user-attachments/assets/03b73306-e968-47c1-b308-e605cd868a56" />
+
+
+
 
 
 
