@@ -63,6 +63,10 @@ http://jagadeshnayak.s3-website-us-west-1.amazonaws.com
 
 <img width="947" alt="image" src="https://github.com/user-attachments/assets/03b73306-e968-47c1-b308-e605cd868a56" />
 
+**Additional Notes**
+
+I deleted the resources from my AWS console to avoid costs, so this GitHub repository serves as the sole showcase for my work on this project. I have documented all the steps and details to ensure a comprehensive understanding of my approach.
+
 
 
 
