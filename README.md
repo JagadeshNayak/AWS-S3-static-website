@@ -20,3 +20,5 @@ During bucket creation, under "Object Ownership," select ACLs enabled.
 This allows fine-grained control over the permissions of individual objects in the bucket.
 Creating an S3 bucket
 
+![Screenshot 2025-03-03 170441](https://github.com/user-attachments/assets/c883bcb4-cfc4-46ad-b37f-20e533c2015d)
+
